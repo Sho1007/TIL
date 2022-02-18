@@ -9,3 +9,4 @@ Today I Learned
 ### Server
 * 2022.01.27 [Memory Model](https://github.com/sho1007/TIL/blob/main/Server/Memory_Model.md)
 * 2022.01.27 [TLS](https://github.com/sho1007/TIL/blob/main/Server/TLS.md)
+* 2022.02.18 [TLS](https://github.com/sho1007/TIL/blob/main/Server/Smart_Pointer.md)

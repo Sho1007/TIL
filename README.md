@@ -15,7 +15,8 @@
 
 ## __Time Stamp__
 ### __2022년__
-#### <summary>2월</summary>
+<details markdown="1">
+<summary>2월</summary>
 
 #####   18일
 [Smart Pointer](https://github.com/sho1007/TIL/blob/main/Server/Smart_Pointer.md)

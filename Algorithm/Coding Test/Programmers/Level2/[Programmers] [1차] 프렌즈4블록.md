@@ -8,6 +8,14 @@ https://school.programmers.co.kr/learn/courses/30/lessons/17679#
 ## 문제 풀이
 #### 메인함수
 ```c++
+#include <string>
+#include <vector>
+
+using namespace std;
+
+int answer = 0;
+
+vector<pair<int, int>> v;
 
 int solution(int m, int n, vector<string> board) {
     

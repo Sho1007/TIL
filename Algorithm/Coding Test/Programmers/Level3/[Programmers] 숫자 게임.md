@@ -1,4 +1,4 @@
-# 단속카메라 (c++)
+# 숫자 게임 (c++)
 
 ## 문제
 https://school.programmers.co.kr/learn/courses/30/lessons/12987

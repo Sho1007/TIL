@@ -20,7 +20,6 @@ int arr[50'001] = {};
 
 int DP(int num)
 {
-    //cout << num << endl;
     if (num == 0) return 0;
     if (arr[num] == 0)
     {
@@ -29,8 +28,6 @@ int DP(int num)
         int minCnt = 987'654'321;
         for (int i = maxNum; i > 0; --i)
         {
-            //cout << "   " << maxNum << endl;
-            //if (num / 2 > pow(i, 2)) break;
             cnt = DP(num - pow(i, 2)) + 1;
             if (cnt < minCnt)
                 minCnt = cnt;

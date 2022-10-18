@@ -20,4 +20,25 @@
 
 #####   18일
 [Smart Pointer](https://github.com/sho1007/TIL/blob/main/Server/Smart_Pointer.md)
+
+<summary>10월</summary>
+
+# 18일
+</details>
+
+<details markdown="1">
+<summary>10월</summary>
+
+#### 3주차
+#####   18일
+[캐스트 연산자]()   
+[기술면접질문]()   
+[PorxyPattern]()   
+[BOJ_5430]()   
+[BOJ_7662]()   
+[BOJ_11723]()   
+
+    
+
+
 </details>

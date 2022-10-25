@@ -31,5 +31,7 @@
 [BOJ_6064](https://github.com/Sho1007/TIL/blob/main/Algorithm/Coding%20Test/BOJ/%5BBOJ%5D6064.md)   
 ## 4주차
 #####   25일
-[BOJ_16236](https://github.com/Sho1007/TIL/blob/main/Algorithm/Coding%20Test/BOJ/%5BBOJ%5D%2016236.md)
+[BOJ_16236](https://github.com/Sho1007/TIL/blob/main/Algorithm/Coding%20Test/BOJ/%5BBOJ%5D%2016236.md)   
+[BOJ_1043](https://github.com/Sho1007/TIL/blob/main/Algorithm/Coding%20Test/BOJ/%5BBOJ%5D%201043.md)   
+[BOJ_1717](https://github.com/Sho1007/TIL/blob/main/Algorithm/Coding%20Test/BOJ/%5BBOJ%5D%201717.md)
 </details>

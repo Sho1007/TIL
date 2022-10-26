@@ -41,6 +41,7 @@
 </details>
 
 ## 공부해야할 것
-[Union-Find](https://github.com/Sho1007/TIL/blob/main/Algorithm/UnionFind.md)에 공부하고 채워넣을 것
-*  Disjoint Set
-* Kruskal MST 알고리즘
+* [Union-Find](https://github.com/Sho1007/TIL/blob/main/Algorithm/UnionFind.md)에 공부하고 채워넣을 것
+    *  Disjoint Set
+    * Kruskal MST 알고리즘
+* Try-Catch

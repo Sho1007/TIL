@@ -34,4 +34,13 @@
 [BOJ_16236](https://github.com/Sho1007/TIL/blob/main/Algorithm/Coding%20Test/BOJ/%5BBOJ%5D%2016236.md)   
 [BOJ_1043](https://github.com/Sho1007/TIL/blob/main/Algorithm/Coding%20Test/BOJ/%5BBOJ%5D%201043.md)   
 [BOJ_1717](https://github.com/Sho1007/TIL/blob/main/Algorithm/Coding%20Test/BOJ/%5BBOJ%5D%201717.md)
+#####   26일
+[BOJ_1976](https://github.com/Sho1007/TIL/blob/main/Algorithm/Coding%20Test/BOJ/%5BBOJ%5D%201976.md)    
+[BOJ_4195](https://github.com/Sho1007/TIL/blob/main/Algorithm/Coding%20Test/BOJ/%5BBOJ%5D%204195.md)   
+[Union-Find](https://github.com/Sho1007/TIL/blob/main/Algorithm/UnionFind.md)
 </details>
+
+## 공부해야할 것
+[Union-Find](https://github.com/Sho1007/TIL/blob/main/Algorithm/UnionFind.md)에 공부하고 채워넣을 것
+*  Disjoint Set
+* Kruskal MST 알고리즘

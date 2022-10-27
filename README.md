@@ -38,10 +38,14 @@
 [BOJ_1976](https://github.com/Sho1007/TIL/blob/main/Algorithm/Coding%20Test/BOJ/%5BBOJ%5D%201976.md)    
 [BOJ_4195](https://github.com/Sho1007/TIL/blob/main/Algorithm/Coding%20Test/BOJ/%5BBOJ%5D%204195.md)   
 [Union-Find](https://github.com/Sho1007/TIL/blob/main/Algorithm/UnionFind.md)
+#####   27일
+[PrimeNumber](https://github.com/Sho1007/TIL/blob/main/Mathematics/MiddleSchool/First/PrimeNumber.md)   
+[BOJ_2580](https://github.com/Sho1007/TIL/blob/main/Algorithm/Coding%20Test/BOJ/2580.md)   
 </details>
 
-## 공부해야할 것
+## __To Do__
 * [Union-Find](https://github.com/Sho1007/TIL/blob/main/Algorithm/UnionFind.md)에 공부하고 채워넣을 것
     *  Disjoint Set
     * Kruskal MST 알고리즘
 * Try-Catch
+* Hash Table

@@ -41,6 +41,8 @@
 #####   27일
 [PrimeNumber](https://github.com/Sho1007/TIL/blob/main/Mathematics/MiddleSchool/First/PrimeNumber.md)   
 [BOJ_2580](https://github.com/Sho1007/TIL/blob/main/Algorithm/Coding%20Test/BOJ/2580.md)   
+#####   28일
+[Exponent](https://github.com/Sho1007/TIL/blob/main/Mathematics/MiddleSchool/First/Exponent.md)
 </details>
 
 ## __To Do__
